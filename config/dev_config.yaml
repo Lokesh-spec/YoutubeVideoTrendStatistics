@@ -1,0 +1,7 @@
+author: LOKESH K V 
+
+inputs:
+  video_csv_path: Data/Region_wise_Video_CSV/CAvideos.csv
+  category_csv_path: Data/Region_wise_Category_CSV/CA_category_id.csv
+output:
+  path: outputs/
